@@ -1,4 +1,4 @@
-# 6530200070.github.io
+# nixe97.github.io
 - Chonnikarn Sangwang
   - Nice
 ![me](github/image.jpg)
