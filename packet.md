@@ -15,4 +15,4 @@
  - การอัปโหลดและดาวน์โหลดไฟล์ คือ มีการใช้แพ็กเก็ตในการส่งข้อมูลไฟล์นั้นๆ
  - การโทรด้วย VoIP คือ การโทรผ่านอินเทอร์เน็ต เช่น Zoom หรือ Microsoft Teams จะใช้แพ็กเก็ตในการส่งข้อมูลเสียงและวิดีโอ
 
-URL งานของเพื่อน : https://ohalic.github.io/packet
+URL งานของเพื่อน : [https://ohalic.github.io/packet](https://ohalic.github.io/packet)
