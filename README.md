@@ -2,5 +2,5 @@
 - Chonnikarn Sangwang (Nice)
   - **Email:** [chonnikarn.san@ku.th](mailto:chonikarn.san@ku.th)
   - **Phone:** 061-4752233
-![me](github/image.jpg)
+![me](photo/profile.jpg)
 [packet](packet.md)
