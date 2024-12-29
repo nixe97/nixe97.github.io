@@ -14,4 +14,4 @@ You can view my **Trailhead** profile [here](https://www.salesforce.com/trailbla
 ![me](photo/profile.jpg)
 1. [Packet](packet.md)
 2. [Happy New Year!](HappyNewyear.md)
-3. [Timeliness](Timeliness.md)
+3. [Timeliness](timeliness.md)
