@@ -1,6 +1,6 @@
 # Timeliness
 **1. [The Alation Data Intelligence Platform](https://www.alation.com/blog/what-is-data-quality-why-is-it-important)**
- - Definition : Timeliness measures how up-to-date or antiquated the data is at any given moment. For example, if you have information on your customers from 2008, and it is now 2021, then there would be an issue with the timeliness as well as the completeness of the data.
+ - Definition : Timeliness measures how up-to-date or antiquated the data is at any given moment.
                 When determining data quality, the timeliness dimension can have a tremendous effect — either positive or negative — on its overall accuracy, viability, and reliability.
 
 **2. ChatGPT :** 
@@ -13,5 +13,5 @@
  - ดูว่าข้อมูลนั้นๆมาถึงตรงเวลาไหมหรือมาถึงในเวลาที่ต้องการไหม มุ่งเน้นไปที่ความพร้อมของข้อมูลเมื่อผู้ใช้ต้องการ ซึ่งคล้ายๆกับ currency แต่เน้นไปที่ระบบมากกว่าเนื้อความของข้อมูล
 
 **5. Sample in Daily life :**
- - การสั่งอาหาร delivery
  - ดูเวลารถสาธารณะผ่านทางแอพพลิเคชั่น เช่น ViaBus
+ - หากคุณมีข้อมูลเกี่ยวกับลูกค้าตั้งแต่ปี 2008 และตอนนี้เป็นปี 2024 ก็จะมีปัญหาเรื่องความตรงเวลาและความสมบูรณ์ของข้อมูล
