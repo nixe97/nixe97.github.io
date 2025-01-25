@@ -21,7 +21,7 @@
 
 # 👨🏻‍💻 สมาชิก
 1. [Chonnikarn Sangwang](https://nixe97.github.io/boardgame) 
-2. [Natnicha Nontraudon]
-3. [Supawadee Muangprasert]
-4. [Jakapob Siwakulrangsun]
-5. [Tanatorn Jitsatsawan]
+2. [Natnicha Nontraudon](https://ohalic.github.io/boardgame)
+3. [Supawadee Muangprasert](https://donyweasley.github.io/boardgame/)
+4. [Jakapob Siwakulrangsun](https://ioosck4.github.io/boardgame)
+5. [Tanatorn Jitsatsawan](https://6530200207.github.io/boardgame)
