@@ -15,4 +15,4 @@ You can view my **Trailhead** profile [here](https://www.salesforce.com/trailbla
 1. [Packet](packet.md)
 2. [Happy New Year!](HappyNewyear.md)
 3. [Timeliness](timeliness.md)
-4. [ฺBoardgame](boardgame.md)
+4. [Boardgame](boardgame.md)
