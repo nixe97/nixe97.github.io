@@ -16,3 +16,4 @@ You can view my **Trailhead** profile [here](https://www.salesforce.com/trailbla
 2. [Happy New Year!](HappyNewyear.md)
 3. [Timeliness](timeliness.md)
 4. [Boardgame](boardgame.md)
+5. [Security Control](security-control.md)
