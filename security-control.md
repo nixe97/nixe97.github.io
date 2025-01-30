@@ -1,7 +1,7 @@
 # 🔐 **Security Control**  
 
 ### 📷 **ภาพประกอบ:**  
-![app](photo/Avast_antivirus.png)
+![app](photo/Avast_antivirus.jpg)
 
 ## 👮🏻‍♂️ **Type of Security Controls**  
 
