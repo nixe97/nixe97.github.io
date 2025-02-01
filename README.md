@@ -17,3 +17,4 @@ You can view my **Trailhead** profile [here](https://www.salesforce.com/trailbla
 3. [Timeliness](timeliness.md)
 4. [Boardgame](boardgame.md)
 5. [Security Control](security-control.md)
+6. [2025 PAO Election](pao-election.md)
