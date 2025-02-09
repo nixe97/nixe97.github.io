@@ -34,4 +34,4 @@
 
 ## 👥 Member
   - [Chonnikarn Sangwang](security-requirement.md)
-  - [Natnicha Nontraudon]
+  - [Natnicha Nontraudon](https://ohalic.github.io/security-requirement)
